@@ -1,7 +1,7 @@
 # BFTrainer with log Replayer
 A scheduler log replayer for BFTrainer evaluation
 
-This is a temporary repository to host source for paper: `BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes` which is currently under double-blind review. This repo will be moved to our orginization account once review is done. 
+This is a temporary repository to host source for paper: `CCGRID 2023 submission 2834` which is currently under double-blind review. This repo will be moved to our orginization account once review is done. 
 
 - This simulator replays real scheduler logs for evaluation of different DNN training scenarios and objective metrics. 
 - The simulator uses exactly the same MILP implementation as it in the BFTrainer.
